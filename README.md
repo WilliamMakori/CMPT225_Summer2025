@@ -54,6 +54,6 @@ This coursework forms the foundation for more advanced topics I’m now studying
 
 ### ✍️ Author
 **Makori William Dennis Chacha**  
-3rd Year Computing Science & Mathematics Student  
+3rd Year Computing Science Student  
 Simon Fraser University  
 📧 [wchacha@sfu.ca](mailto:wchacha@sfu.ca)
